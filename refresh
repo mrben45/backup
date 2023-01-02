@@ -1,0 +1,5 @@
+clear
+
+echo ""
+echo ""
+apt autoremove && apt autoclean
